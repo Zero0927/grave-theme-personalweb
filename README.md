@@ -1,1 +1,1 @@
-Build my personal website with bootstrap.
+Build my personal website with bootstrap, jQuery and font awesome.
